@@ -1,0 +1,1 @@
+let position: [number, string] = [39, '88']
